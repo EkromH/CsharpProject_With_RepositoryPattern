@@ -26,15 +26,19 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
    
 git clone https://github.com/EkromH/CsharpProject_With_RepositoryPattern.git
+
 2. Navigate to the project directory:
  
 cd CsharpProject_With_RepositoryPattern
+
 3. Restore the project dependencies:
 
 dotnet restore
+
 4. Build the project:
 
 dotnet build
+
 5. Run the application:
 
 dotnet run
